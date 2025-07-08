@@ -64,7 +64,7 @@ Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando
 ## 📫 Contacto
 
 Actualmente no publico información personal en este perfil, pero estoy abierto a nuevas oportunidades profesionales como **desarrollador backend junior**.  
-Si te interesa colaborar o tienes alguna propuesta, puedes contactarme a través de LinkedIn o email (en el CV).
+Si te interesa colaborar o tienes alguna propuesta, puedes contactarme a través de email jjmmc@hotmail.com.
 
 ---
 
