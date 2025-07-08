@@ -2,7 +2,7 @@
 
 💡 Apasionado por la programación y la tecnología  
 🐍 Especial interés en desarrollo backend con Python  
-🎧 Técnico en sonido | 💻 Técnico en sistemas  
+💻 Técnico en sistemas | 🎧 Técnico en sonido 
 🚀 En búsqueda de mi primera oportunidad profesional como desarrollador junior
 
 ---
