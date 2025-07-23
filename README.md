@@ -57,7 +57,7 @@ Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando
 
 - Español: nativo  
 - Alemán: B2  
-- Inglés: A2 (aprendiendo activamente)
+- Inglés: C1
 
 ---
 
