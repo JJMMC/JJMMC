@@ -20,11 +20,11 @@ Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando
 
 - 🐍 **Lenguaje principal**: Python  
 - ⚙️ **Backend & APIs**: FastAPI, Flask, Pydantic, APIRest, JWT, OAuth2  
-- 🗄️ **Bases de datos**: SQLite, SQLAlchemy  
+- 🗄️ **Bases de datos**: PostgreSQL, SQLite, SQLAlchemy ORM 
 - 🧪 **Testing**: Pytest  
 - 🐳 **DevOps básico**: Git, GitHub, Docker  
 - 🌐 **Web & visualización**: Streamlit, NiceGUI  
-- 🔍 **Web scraping**: BeautifulSoup, automatización de datos  
+- 🔍 **Web scraping**: BeautifulSoup, Selenium, automatización de datos  
 - 🧠 **Otros**: Markdown, CLI tools, documentación técnica
 
 ---
