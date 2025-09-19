@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy JJMMC
 
 💡 Apasionado por la programación y la tecnología  
-🐍 Especial interés en desarrollo backend con Python y IA 
+🐍 Especial interés en backend con Python y IA 
 💻 Técnico en sistemas | 🎧 Técnico en sonido 
 🚀 En búsqueda de mi primera oportunidad profesional como desarrollador
 
