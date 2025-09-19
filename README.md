@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy JJMMC
 
 💡 Apasionado por la programación y la tecnología  
-🐍 Especial interés en desarrollo backend con Python  
+🐍 Especial interés en desarrollo backend con Python y IA 
 💻 Técnico en sistemas | 🎧 Técnico en sonido 
 🚀 En búsqueda de mi primera oportunidad profesional como desarrollador
 
@@ -63,7 +63,7 @@ Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando
 
 ## 📫 Contacto
 
-Actualmente no publico información personal en este perfil, pero estoy abierto a nuevas oportunidades profesionales como **desarrollador backend junior**.  
+Estoy abierto a nuevas oportunidades profesionales como **desarrollador backend** y proyectos con **IA**.  
 Si te interesa colaborar o tienes alguna propuesta, puedes contactarme a través de email jjmmc@hotmail.com.
 
 ---
