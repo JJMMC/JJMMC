@@ -3,7 +3,7 @@
 💡 Apasionado por la programación y la tecnología  
 🐍 Especial interés en desarrollo backend con Python  
 💻 Técnico en sistemas | 🎧 Técnico en sonido 
-🚀 En búsqueda de mi primera oportunidad profesional como desarrollador junior
+🚀 En búsqueda de mi primera oportunidad profesional como desarrollador
 
 ---
 
@@ -12,18 +12,18 @@
 Tras años de experiencia en los sectores del sonido profesional y los sistemas informáticos, descubrí en la programación una nueva pasión y una vía para seguir creciendo profesionalmente.  
 Durante el último año he invertido gran parte de mi tiempo en formarme como desarrollador backend de forma autodidacta, consolidando conocimientos a través de proyectos personales y formación continua.
 
-Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando con herramientas modernas como **FastAPI**, **Pydantic**, **Docker** o **SQLAlchemy**, y aplicando buenas prácticas desde el diseño hasta la documentación y pruebas.
+Mi enfoque actual está en el desarrollo de **APIs REST con Python**, trabajando con herramientas modernas como **FastAPI**, **Django**, o **Docker**, y aplicando buenas prácticas desde el diseño hasta la documentación y pruebas.
 
 ---
 
 ## 💡 Habilidades técnicas
 
-- 🐍 **Lenguaje principal**: Python  
-- ⚙️ **Backend & APIs**: FastAPI, Flask, Pydantic, APIRest, JWT, OAuth2  
-- 🗄️ **Bases de datos**: PostgreSQL, SQLite, SQLAlchemy ORM 
+- 🐍 **Lenguaje principal**: Python, JavaScript  
+- ⚙️ **Backend & APIs**: FastAPI, Flask, Django, APIRest, JWT, OAuth2  
+- 🗄️ **Bases de datos**: PostgreSQL, SQLite, SQLAlchemy ORM, MongoDB 
 - 🧪 **Testing**: Pytest  
 - 🐳 **DevOps básico**: Git, GitHub, Docker  
-- 🌐 **Web & visualización**: Streamlit, NiceGUI  
+- 🌐 **Web & visualización**: Streamlit, NiceGUI, HTML  
 - 🔍 **Web scraping**: BeautifulSoup, Selenium, automatización de datos  
 - 🧠 **Otros**: Markdown, CLI tools, documentación técnica
 
